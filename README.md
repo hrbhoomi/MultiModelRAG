@@ -55,25 +55,24 @@ Development & Tools
 
 # Frontend
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 # Backend
 
-cd backend
-pip install -r requirements.txt
-python app.py
+- cd backend
+- pip install -r requirements.txt
+- python app.py
 
 # Screenshots
 
-UI screenshots like homepage, chatbot interface, and upload feature here.
+UI screenshots like homepage, chatbot interface .
 
 # Home Page
-![Home Page](./page3.jpeg)
+![Home Page](https://github.com/hrbhoomi/MultiModelRAG/blob/main/backend/page3.jpeg)
 
 # 💬 Chatbot Interface
-![Chatbot Page](./chatbotPage.jpeg)
 
 ![Chatbot Page](https://github.com/hrbhoomi/MultiModelRAG/blob/main/backend/chatbotPage.jpeg)
 # Author
